@@ -20,7 +20,7 @@ const Header = ({ actor, setActor, isAuthenticated, setIsAuthenticated, tokenCre
   return (
     <header className="bg-infinite mb-2 p-4 text-white">
       <div className="mx-auto flex flex-row flex-wrap items-center justify-between gap-2">
-        <h1 className="text-4xl font-bold">Tokenmania</h1>
+        <h1 className="text-4xl font-bold">Infocoiny</h1>
         <div className="flexitems-center">
           <InternetIdentity
             setActor={setActor}
